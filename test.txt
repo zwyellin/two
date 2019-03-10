@@ -1,3 +1,4 @@
 git1 init
 add
 git2 add
+git add 1
